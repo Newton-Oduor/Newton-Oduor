@@ -1,4 +1,4 @@
-# Hi, I’m Nod 👋
+# Hi, I’m Nod — Newton Oduor 👋
 
 I’m an entry-level full stack developer focused on building practical, real-world digital solutions.
 Currently learning, experimenting, and documenting my journey while working towards becoming a strong software engineer.
