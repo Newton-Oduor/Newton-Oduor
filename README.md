@@ -59,7 +59,7 @@ Here are some projects I’m working on and improving:
 
 A sleek and interactive Single Page Application (SPA) that allows users to search and view song lyrics by their favorite artists. 
 
-### [🪙 Chama Pay](https://github.com/Newton-Oduor/chama_pay_app/tree/main/chama_pay)
+### [🪙 Chama Pay](https://github.com/Newton-Oduor/chama_pay_app)
 
 A simple financial management tool (CLI application) designed to help small savings groups (chamas) track member contributions, group funds, and loans. 
 
