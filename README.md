@@ -31,17 +31,23 @@ I’m especially interested in:
 
 ## 🛠 Tech Stack
 
-**Frontend:**
-`JavaScript` | `React` | `HTML` | `CSS` | `Tailwind`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend (learning):**
-`Python` | `Flask` | `Node.js` | `Express`
+---
 
-**Database:**
-`PostgreSQL` | `JSON Server`
+## 🛠 Tools
 
-**Tools:**
-`Git` | `GitHub` | `VS Code` | `Ubuntu`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
@@ -53,11 +59,7 @@ Here are some projects I’m working on and improving:
 
 A sleek and interactive Single Page Application (SPA) that allows users to search and view song lyrics by their favorite artists. 
 
-### 🎯 Smart Goal Planner
-
-A fintech application that helps users track savings, deposits, and financial goals.
-
-### [Chama Pay](https://github.com/Newton-Oduor/chama_pay_app/tree/main/chama_pay)
+### [🪙 Chama Pay](https://github.com/Newton-Oduor/chama_pay_app/tree/main/chama_pay)
 
 A simple financial management tool (CLI application) designed to help small savings groups (chamas) track member contributions, group funds, and loans. 
 
@@ -65,11 +67,25 @@ A simple financial management tool (CLI application) designed to help small savi
 
 Helping users manage money, plan budgets, and track unexpected expenses.
 
-### 🥾 Trails & Adventure Platform
+---
 
-A hiking and adventure web application with payments and favourites.
+## 🤝 Projects I Contributed To 
 
-More projects coming soon as I continue learning and building.
+### 🎯 [Smart Goal Planner](https://github.com/Newton-Oduor/smart-goal-planner)  
+A fintech application that helps users track savings, deposits, and financial goals.  
+*Contributions: Developed core features, improved UI/UX, and integrated backend functionality.*
+
+### 🥾 [Hike Kenya – Trails and Adventure Platform](https://github.com/Ms-Njuguna/HikeKenya)  
+A hiking and adventure SPA allowing users to explore trails, join hikes, and manage favorites.  
+*Contributions: Implemented join hike logic, favorites feature, and dummy payment modal.*
+
+### 🚗 [Safiri Auto – Car Rental App](https://github.com/billotiende-droid/Safiri-Auto)  
+A vehicle booking system enabling users to search, select, and reserve cars.  
+*Contributions: Added key features, improved booking flows, and collaborated with the team on backend integration.*
+
+### 🍔 [Food Court App](https://github.com/PNYATETE/foodcourt)  
+A multi-vendor food ordering platform with cart management and order functionality.  
+*Contributions: Implemented core UI components, integrated backend endpoints, and optimized user flows.*
 
 ---
 
